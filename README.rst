@@ -34,9 +34,11 @@ Running Tests
 -------------
 
 Run tests locally using ``make`` if virtualenv is active:
-
 ::
+
     $ make
+
+
 
 If virtualenv is not active then use:
 
