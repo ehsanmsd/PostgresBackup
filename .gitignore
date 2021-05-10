@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+dump.sql
+local-dump.sql
 # Distribution / packaging
 .Python
 build/
